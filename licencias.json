@@ -1,10 +1,10 @@
 [
   {
-    "app": "CAS",
-    "appNombre": "Control Casino",
-    "codigo": "CAS-DEMO-1234-5678",
-    "cliente": "Cliente Demo",
-    "vence": "vitalicio",
-    "estado": "activo"
-  }
+  "app": "CAS",
+  "appNombre": "Control Casino",
+  "codigo": "CAS-PAFZ-82GG-WW2X",
+  "cliente": "Cistian-Nuvoa",
+  "vence": "2026-05-29",
+  "estado": "activo"
+}
 ]
