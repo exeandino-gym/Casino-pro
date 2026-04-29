@@ -1,0 +1,10 @@
+[
+  {
+    "app": "CAS",
+    "appNombre": "Control Casino",
+    "codigo": "CAS-DEMO-1234-5678",
+    "cliente": "Cliente Demo",
+    "vence": "vitalicio",
+    "estado": "activo"
+  }
+]
